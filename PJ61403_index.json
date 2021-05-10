@@ -1,0 +1,18 @@
+{
+    "0" : [
+        "Atopic Dermatitis",
+        "ad"
+    ],
+    "1" : [
+        "Normal",
+        "nm"
+    ],
+    "2" : [
+        "Psoriasis",
+        "ps"
+    ],
+    "3" : [
+        "Seborrhoeic Keratosis",
+        "sk"
+    ]
+}
